@@ -11,6 +11,9 @@ This module systemless-ly adds the required xml files (taken from the Pixel 2 XL
 ### v2.0
 - Update for Magisk v15.0 (Template version 1500)
 
+### v2.1
+- Update for Magisk v17.0 (Template version 17000)
+
 ## Links
 * [GitHub](https://github.com/Magisk-Modules-Repo/GoogleLensEnabler)
 * [Support](https://forum.xda-developers.com/oneplus-5/themes/magisk-enable-google-lens-google-photos-t3694140)

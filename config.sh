@@ -40,10 +40,10 @@ LATESTARTSERVICE=false
 # Set what you want to show when installing your mod
 
 print_modname() {
-  ui_print "####################################"
-  ui_print "#        Google Lens Enabler       #"
-  ui_print "# by @shadowstep at xda-developers #"
-  ui_print "####################################"
+  ui_print "************************************"
+  ui_print "*        Google Lens Enabler       *"
+  ui_print "* by @shadowstep at xda-developers *"
+  ui_print "************************************"
 }
 
 ##########################################################################################
@@ -64,10 +64,6 @@ REPLACE="
 # Construct your own list here, it will override the example above
 # !DO NOT! remove this if you don't need to replace anything, leave it empty as it is now
 REPLACE="
-/system/etc/sysconfig/google_build.xml
-/system/etc/sysconfig/nexus.xml
-/system/etc/sysconfig/pixel_2017.xml
-/system/etc/sysconfig/pixel_2017_exclusive.xml
 "
 
 ##########################################################################################
