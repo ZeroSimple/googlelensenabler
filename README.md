@@ -1,4 +1,4 @@
-# GoogleLensEnabler [![Magisk](https://img.shields.io/badge/Magisk-14%2B-00B39B.svg?style=flat-square)](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445) [![Forum](https://img.shields.io/badge/XDA-Forums-f59714.svg?style=flat-square)](https://forum.xda-developers.com/oneplus-5/themes/magisk-enable-google-lens-google-photos-t3694140)
+# GoogleLensEnabler [![Magisk](https://img.shields.io/badge/Magisk-17%2B-00B39B.svg?style=flat-square)](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445) [![Forum](https://img.shields.io/badge/XDA-Forums-f59714.svg?style=flat-square)](https://forum.xda-developers.com/oneplus-5/themes/magisk-enable-google-lens-google-photos-t3694140)
 
 ## Information
 This module systemless-ly adds the required xml files (taken from the Pixel 2 XL factory image) so that Google Lens is enabled in Google Photos.
